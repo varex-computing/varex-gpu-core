@@ -1,5 +1,5 @@
 {
-	"name": "varex-gpu-core",
+	"name": "@varex/varex-gpu-core",
 	"version": "0.0.1",
 	"description": "The core library for the Varex GPU work distribution system.",
 	"main": "index.js",
